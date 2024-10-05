@@ -11,10 +11,6 @@ I'm Yasin<br>a Front-end developer👨🏻‍💻<br><br> I’m currently workin
 </br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinMirnia&theme=holi&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/>
-<img alt="github contribution snake animation" src="https://github.com/SamaneYaghoobi/SamaneYaghoobi/blob/output/github-contribution-grid-snake.svg">
-
 ---
 [![](https://visitcount.itsvg.in/api?id=YasinMirnia&icon=0&color=0)](https://visitcount.itsvg.in)
 
