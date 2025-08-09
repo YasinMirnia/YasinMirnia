@@ -1,6 +1,5 @@
 ## Hi there 👋
-I'm Yasin<br>a Front-End developer👨🏻‍💻<br><br> a Front-End Developer crafting sleek & high-performance UIs 🚀
-Working with JavaScript and sharpening my React skills to build fast, beautiful, and user-focused web experiences. 🔭🌱
+I'm Yasin<br>a Front-End developer👨🏻‍💻<br>crafting sleek & high-performance UIs, Working with JavaScript and sharpening my React skills to build fast, beautiful, and user-focused web experiences. 🔭🌱
 
 
 ## 🌐 Socials:
