@@ -1,2 +1,2 @@
 ## Hi there 👋
-Its Yasin :)
+It's Yasin :)
